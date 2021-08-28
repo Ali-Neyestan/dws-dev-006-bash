@@ -10,7 +10,7 @@ when you go through the script if the command enters in a correct form and execu
 
 ## The License
 
-DO WHAT EVER YOU WANT!
-You are free to do what ever you want. enjoy!
+Apache License 2.0
+
 
 [@dwsclass](https://github.com/Ali-Neyestan/dws-dev-006-bash1) dws-dev-006-bash
